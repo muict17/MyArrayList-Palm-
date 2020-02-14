@@ -1,5 +1,3 @@
-package ArrayList;
-
 public class MyArrayList<T> {
 	// initial state
 	private T[] array;
